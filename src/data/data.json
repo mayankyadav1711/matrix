@@ -1,21 +1,21 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Matrix Assests Recovery Agency",
+    "paragraph": "Unlock the Power of Asset Recovery with Precision and Expertise. Our Agency Delivers Tailored Solutions for Seamless Asset Retrieval, Ensuring Your Financial Success. Trust in Excellence, Trust in Us."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Matrix Assets Recovery Agency is dedicated to excellence in distressed assets resolution and financial advisory. Our team, comprised of seasoned professionals, is committed to navigating the complexities of financial and legal landscapes with utmost integrity. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Strategic Resolution Expertise",
+      "Proven Professional Track",
+      "Innovative Asset Maximization",
+      "Client Trust Commitment"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Comprehensive Due Diligence",
+      "Optimized Asset Realization",
+      "Diverse Talent Leverage",
+      "Strategic Expansion Plans"
     ]
   },
   "Gallery": [
@@ -67,34 +67,34 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-gavel",
+      "name": "Legal & Financial Due Diligence",
+      "text": "Comprehensive assessments before SARFAESI action for informed decision-making."
     },
     {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-money",
+      "name": "NPA Accounts Settlement",
+      "text": "Expert negotiation for NPA account settlements, optimizing outcomes for all parties."
     },
     {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-building",
+      "name": "Asset Takeover and Management",
+      "text": "Efficient takeover of assets with expert management under SARFAESI Act 2002."
     },
     {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-calculator",
+      "name": "Asset Valuation by Approved Technocrats",
+      "text": "Accurate valuation by approved technocrats for maximizing commercial asset realization."
     },
     {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-users",
+      "name": "Arbitration and Mediation",
+      "text": "Acting as an arbitrator between banks and borrowers for expedited recovery processes."
     },
     {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+      "icon": "fa fa-cogs",
+      "name": "Innovative Resolution Strategies",
+      "text": "Crafting creative and strategic solutions for complex challenges in asset recovery."
     }
   ],
   "Testimonials": [
@@ -132,19 +132,20 @@
   "Team": [
     {
       "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
+      "name": "Adv. Bharti Bansal",
+      "job": "Executive Director"
     },
     {
       "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
+      "name": "Mr. Mukeshkumar Bansal",
+      "job": "Executive Director & Financer"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Jane Doe",
       "job": "Senior Designer"
     },
+    
     {
       "img": "img/team/04.jpg",
       "name": "Karen Doe",
@@ -162,23 +163,23 @@
   "Features": [
     {
       "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Expert Consultation",
+      "text": "Guided by professionals, we offer expert consultation for navigating financial and legal scenarios with integrity."
     },
     {
       "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Strategic Resolution",
+      "text": "Hands-on experience in NPA management, SARFAESI, and DRT for strategic resolution of distressed assets with 'Win-All' solutions."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Diverse Talent Pool",
+      "text": "Benefit from a talent pool including lawyers, ex-bankers, and professionals, ensuring a comprehensive approach to asset recovery."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Innovative Solutions",
+      "text": "Providing 'Out of the box' solutions, we optimize commercial realization of assets, factoring in usage angles for maximizing returns."
     }
   ]
 }

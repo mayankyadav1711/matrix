@@ -60,6 +60,11 @@ export const Contact = (props) => {
                         placeholder="Name"
                         required
                         onChange={handleChange}
+                        style={{
+                          padding: "10px",
+                          border: "1px solid #ddd",
+                          borderRadius: "5px",
+                        }}
                       />
                       <p className="help-block text-danger"></p>
                     </div>
@@ -74,6 +79,11 @@ export const Contact = (props) => {
                         placeholder="Email"
                         required
                         onChange={handleChange}
+                        style={{
+                          padding: "10px",
+                          border: "1px solid #ddd",
+                          borderRadius: "5px",
+                        }}
                       />
                       <p className="help-block text-danger"></p>
                     </div>
@@ -88,6 +98,11 @@ export const Contact = (props) => {
                     placeholder="Message"
                     required
                     onChange={handleChange}
+                    style={{
+                      padding: "10px",
+                      border: "1px solid #ddd",
+                      borderRadius: "5px",
+                    }}
                   ></textarea>
                   <p className="help-block text-danger"></p>
                 </div>
@@ -150,16 +165,16 @@ export const Contact = (props) => {
           </div>
         </div>
       </div>
-      <div id="footer">
-        <div className="container text-center">
-          <p>
-            &copy; 2023 Issaaf Kattan React Land Page Template. Design by{" "}
-            <a href="http://www.templatewire.com" rel="nofollow">
-              TemplateWire
-            </a>
-          </p>
-        </div>
-      </div>
+      <div id="footer" style={{ backgroundColor: "#f8f9fa", color: "#333", padding: "20px 0" }}>
+  <div className="container text-center">
+    <p style={{ margin: 0, fontSize: "20px", fontWeight: "bold" }}>
+      &copy; {new Date().getFullYear()} Matrix Assets Recovery Agency
+    </p>
+  </div>
+</div>
+
+
+
     </div>
   );
 };

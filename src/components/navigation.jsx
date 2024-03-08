@@ -18,8 +18,17 @@ export const Navigation = (props) => {
             <span className="icon-bar"></span>{" "}
           </button>
           <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
-          </a>{" "}
+            <img
+              src="https://i.ibb.co/1K3q5q1/Remove-bg-ai-1709882667150.png"
+              alt="Remove-bg-ai-1709882667150"
+              style={{
+                width: '60px',  // Set a fixed width for the logo
+                height: 'auto', // Maintain the aspect ratio of the image
+                marginRight: '10px', // Adjust spacing between logo and other components
+                marginTop : '-15px', // Adjust spacing between logo and other components
+              }}
+            />
+          </a>
         </div>
 
         <div

@@ -7,9 +7,8 @@ export const Services = (props) => {
         <div className="section-title">
           <h2>Our Services</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
+  Matrix Assets Recovery Agency offers a comprehensive suite of specialized services designed to navigate the intricate landscape of distressed assets and financial recovery. 
+</p>
         </div>
         <div className="row">
           {props.data

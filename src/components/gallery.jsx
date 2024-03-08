@@ -8,9 +8,8 @@ export const Gallery = (props) => {
         <div className="section-title">
           <h2>Gallery</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
+  Explore our gallery showcasing the success stories, achievements, and key moments at Matrix Assets Recovery Agency.
+</p>
         </div>
         <div className="row">
           <div className="portfolio-items">
